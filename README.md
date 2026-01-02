@@ -30,7 +30,7 @@ and procedures.
 
 ## Notes
 
--All data used in this project is dummy data created solely for demonstration and learning purposes.
--No real personal, medical, or commercial data is included.
--SQL scripts use relative paths to ensure portability across systems.
+- All data used in this project is dummy data created solely for demonstration and learning purposes.
+- No real personal, medical, or commercial data is included.
+- SQL scripts use relative paths to ensure portability across systems.
 
